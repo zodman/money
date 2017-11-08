@@ -22,11 +22,13 @@ Python Ninja & anime lover and warez ripper.
 * Ejemplo
 
 ---
-## Un sitio de peliculas en México no es legal
-### Articulo 151 Ley federal del derecho de autor:
+# Un sitio de peliculas en México no es legal
+## Articulo 151 Ley federal del derecho de autor:
 
 > No constituyen violaciones a los derechos de los artistas intérpretes o ejecutantes, productores de fonogramas, de videogramas u organismos de radiodifusión la utilización de sus actuaciones, fonogramas, videogramas o emisiones, cuando:  
 >  * No se persiga un beneficio económico directo;
+---
+
 
 | ![kickass.com.mx](https://i.imgur.com/V96lRvf.png) | ![torrentfreak](https://i.imgur.com/F5Dq3mI.png) |
 |----------------------------------------------------|--------------------------------------------------|
