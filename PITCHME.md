@@ -219,10 +219,11 @@ Usa buffer.com para agendar tus post semanales en facebook o twitter utilizando 
 
 Has un streaming de peliculas en facebook y compartelos en grupos de facebook
 
+https://github.com/EstebanFuentealba/facebook-live-streaming
 
 ---
-
-![](https://www.youtube.com/embed/pMyGATaLYUU)
+### Funciona!!
+![](https://i.imgur.com/jCpkyRC.png)
 
 
 
