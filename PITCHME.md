@@ -79,10 +79,15 @@ Sitio web kickass.com.mx ofrecía películas a cambio de dinero
 Arrestan en méxico Creadores de sitio de torrents Demonoid
 
 ---
+
 # ¿ Qué es "Warez" ?
 ![warez](https://i.imgur.com/beNCRki.png)
+
 ---
-![](https://i.imgflip.com/1z4c50.jpg)![](https://i.imgur.com/0gL01PW.jpg)
+
+| ![](https://i.imgflip.com/1z4c50.jpg) | ![](https://i.imgur.com/0gL01PW.jpg) |
+|--|--|
+
 Note:
 # Orígenes
 Estrenos:   
