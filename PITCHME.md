@@ -28,7 +28,7 @@ Python Ninja & anime lover and warez ripper.
 ---
 ### Articulo 151 Ley federal del derecho de autor:
 
-<span style="font-size:1em;">No constituyen violaciones a los derechos de los artistas intérpretes o ejecutantes, productores de fonogramas, de videogramas u organismos de radiodifusión la utilización de sus actuaciones, fonogramas, videogramas o emisiones, cuando:  </span>
+<span style="font-size:.5em;">No constituyen violaciones a los derechos de los artistas intérpretes o ejecutantes, productores de fonogramas, de videogramas u organismos de radiodifusión la utilización de sus actuaciones, fonogramas, videogramas o emisiones, cuando:  </span>
 >  * **No se persiga un beneficio económico directo;**
 ---
 
