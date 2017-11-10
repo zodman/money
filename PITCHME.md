@@ -202,7 +202,7 @@ Tienes que ponerle ifttt.com para disparar tus ligas de tus posts. Cada vez que 
 Tu fanpage facebook hasla viral. Poniendo memes de películas. Eso compártelo en todos los grupos que puedas de facebook. Eso hara que atraigas trafico de redes sociales a tu sitio web.
 En twitter has lo mismo pon memes de películas. Dale follow a todo Mundo retwitt a todo lo relacionado con peliculas para que tu perfil se de a notar.  
 Instala twando y pone en piloto automático los DM's de twitter mandando trafico a tu sitio web.
-Usa buffer.com para agendar tus post semanales en defacebook o twitter utilizando twando.
+Usa buffer.com para agendar tus post semanales en facebook o twitter utilizando twando.
 </span>
 
 ---
@@ -215,7 +215,7 @@ Usa buffer.com para agendar tus post semanales en defacebook o twitter utilizand
 ---?image=https://i.imgur.com/IXbqs24.png&size=auto 100%
 ---?image=https://i.imgur.com/ksk8y9u.png&size=auto 100%
 
-
+--?video=https://www.youtube.com/watch?v=pMyGATaLYUU
 
 
 
