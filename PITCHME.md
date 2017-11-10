@@ -102,9 +102,7 @@ DVD-R formato para grabar un cd
 ## File hosting
 ### Descarga archivos a tu computadora
 
----
-
-![image](http://imagizer.imageshack.us/v2/626x480q90/922/mifIBO.png)
+---?image=http://imagizer.imageshack.us/v2/626x480q90/922/mifIBO.png&size=auto 100%
 
 ---
 
