@@ -48,21 +48,13 @@ Preguntar al publico si es legal o no
 
 ![](http://caliescribe.com/sites/default/files/imagenes_revista/2012/02/01-04/tecnologia/dvd-pirata.jpg)
 
----
+---?image=https://imgur.com/I8H810c.png&size=auto 100%
 
- ![img1](https://imgur.com/I8H810c.png)
+---?image=https://imgur.com/ce9pExZ.png&size=auto 100%
 
----
+---?image=https://imgur.com/EC8myrx.png&size=auto 100%
 
-![img2](https://imgur.com/ce9pExZ.png)
-
----
-
-![img2](https://imgur.com/EC8myrx.png)
-
----
-
-![img3](https://imgur.com/BwubIUg.png)
+---?image=https://imgur.com/BwubIUg.png&size=auto 100%
 
 ---
 
