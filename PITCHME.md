@@ -23,7 +23,7 @@ Python Ninja & anime lover and warez ripper.
 
 ---
 # Un sitio de peliculas en México 
-##¿ es legal o no ?
+## ¿ Es legal o no ?
 ---
 ## Articulo 151 Ley federal del derecho de autor:
 > No constituyen violaciones a los derechos de los artistas intérpretes o ejecutantes, productores de fonogramas, de videogramas u organismos de radiodifusión la utilización de sus actuaciones, fonogramas, videogramas o emisiones, cuando:  
