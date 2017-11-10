@@ -154,9 +154,6 @@ Explicación del funcionamiento del torrent
 # CPM ( Mil )
 # CPA ( acción )
 
-Notes:
-tenemos un CPM de 1USD
-Sitio web se muestra a 10000 Personas ganas $10 USD
 
 ---
 
@@ -164,6 +161,13 @@ Sitio web se muestra a 10000 Personas ganas $10 USD
 
 ### Acortadores de urls
 ### Popups
+
+### Diferentes costos por país
+
+Note:
+tenemos un CPM de 1USD
+Sitio web se muestra a 10000 Personas ganas $10 USD
+
 
 ---
 
