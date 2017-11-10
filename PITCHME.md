@@ -150,11 +150,21 @@ Explicación del funcionamiento del torrent
 
 ---
 
-### CPC (click)
-### CPM ( Mil )
-### CPA ( acción )
+# CPC (click)
+# CPM ( Mil )
+# CPA ( acción )
+
+Notes:
+tenemos un CPM de 1USD
+Sitio web se muestra a 10000 Personas ganas $10 USD
 
 ---
 
 # CPM ( Mil )
+
+### Acortadores de urls
+### Popups
+
+---
+
 
