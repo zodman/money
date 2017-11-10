@@ -4,12 +4,15 @@ by @zodman
 ---
 # Me presento
  
-Soy Andrés Bernardo Vargas Rodriguez.  
+Soy Andrés Bernardo Vargas Rodríguez.  
 Lic. en ciencias computaciones  
 UADY.
 
-Lider OpenSource en interalia.net  
+Líder OpenSource en interalia.net  
 Python Ninja & anime lover and warez ripper.
+
+tw: @zodman 
+
 
 ---
 
@@ -17,14 +20,24 @@ Python Ninja & anime lover and warez ripper.
 
 * Legal
 * Tipos de sitio web
-* Requerimientos para el sitio
-* Trafíco y como lo obtinen
+vídeo Requerimientos para el sitio
+* Tráfico y como lo obtienen
 * Monetización y alcances
 * Ejemplo
 
 ---
+
 # Un sitio de peliculas en México 
 ## ¿ Es legal o no ?
+
+Note:
+Preguntar al publico si es legal o no
+
+---
+
+Aquí y en China un delito es un delito!
+
+
 ---
 ### Articulo 151 Ley federal del derecho de autor:
 
@@ -41,7 +54,7 @@ Python Ninja & anime lover and warez ripper.
 ---
 ![](http://caliescribe.com/sites/default/files/imagenes_revista/2012/02/01-04/tecnologia/dvd-pirata.jpg)
 ---
-[buscar en google cierran sitio de peliculas mexico](http://www.lmfgtfy.com/?q=cierran+sitio+peliculas+mexico)  
+[buscar en google cierran sitio de películas mexico](http://www.lmfgtfy.com/?q=cierran+sitio+peliculas+mexico)  
 [buscar en google cierran sitio piratas mexico](https://www.google.com.mx/search?btnG=1&pws=0&q=cierran+sitio+web+piratas+mexico&gws_rd=cr&dcr=0&ei=Ea8CWtizEqOMjwTeh7qQAQ)  
 
 ---
@@ -49,20 +62,20 @@ Python Ninja & anime lover and warez ripper.
 |----------------------------------------------------|--------------------------------------------------|
 
 Note:
-Sitio web kickass.com.mx ofrecia peliculas a cambio de dinero  
-Arrestan en mexico Creadores de sitio de torrents Demonoid
+Sitio web kickass.com.mx ofrecía películas a cambio de dinero  
+Arrestan en méxico Creadores de sitio de torrents Demonoid
 
 ---
 # ¿ Qué es "Warez" ?
 ![warez](https://i.imgur.com/beNCRki.png)
 ---
-# Origenes
+# Orígenes
 ![](https://i.imgflip.com/1z4c50.jpg)  
 Note:
 Estrenos:   
 * Las pelis vienen del cine
 * Vienen de DVD BlueRayDisc
-* Sitios de streaming que si pagan por la distribuición
+* Sitios de streaming que si pagan por la distribución
 > amazon, netflix, blim, click cinepolis  
 
 Software Distribuido, Centralizado.
@@ -89,7 +102,7 @@ DVD-R formato para grabar un cd
 
 # Streaming online
 ## Video hosting
-### Ver el video/pelicula sin descargar a tu computadora
+### Ver el vídeo/película sin descargar a tu computadora
 
 ---
 
