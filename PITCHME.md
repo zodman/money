@@ -216,6 +216,12 @@ Usa buffer.com para agendar tus post semanales en facebook o twitter utilizando 
 ---?image=https://i.imgur.com/ksk8y9u.png&size=auto 100%
 
 ---
+
+Has un streaming de peliculas en facebook y compartelos en grupos de facebook
+
+
+---
+
 ![](https://www.youtube.com/embed/pMyGATaLYUU)
 
 
