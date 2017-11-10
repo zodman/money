@@ -44,9 +44,8 @@ Preguntar al publico si es legal o no
 
 <span style="font-size:.9em;">No constituyen violaciones a los derechos de los artistas intérpretes o ejecutantes, productores de fonogramas, de videogramas u organismos de radiodifusión la utilización de sus actuaciones, fonogramas, videogramas o emisiones, cuando:  </span>
 ### **No se persiga un beneficio económico directo;**
----
 
-![](http://caliescribe.com/sites/default/files/imagenes_revista/2012/02/01-04/tecnologia/dvd-pirata.jpg)
+---?image=http://caliescribe.com/sites/default/files/imagenes_revista/2012/02/01-04/tecnologia/dvd-pirata.jpg&size=auto 100%
 
 ---?image=https://imgur.com/I8H810c.png&size=auto 100%
 
