@@ -171,6 +171,7 @@ Sitio web se muestra a 10000 Personas ganas $10 USD
 Diferentes costos por país  
 
 ---
-<iframe src="http://recordit.co/GWt1w8CchS"  width="100%" height="100%"/>
+
+<iframe src="http://recordit.co/GWt1w8CchS"  width="100%" height="100%"></iframe>
 
 
