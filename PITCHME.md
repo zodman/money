@@ -1,5 +1,6 @@
 # ¿ Comó hacer dinero  en internet ?
 ## Con un sitio de peliculas
+by @zodman
 ---
 # Me presento
  
@@ -21,10 +22,10 @@ Python Ninja & anime lover and warez ripper.
 * Monetización y alcances
 * Ejemplo
 
----?image=http://www.thailandlaw.org/wp-content/uploads/2013/06/banner-copyright-1024x576.jpg
+---
 # Un sitio de peliculas en México 
 ## ¿ Es legal o no ?
----?image=http://www.thailandlaw.org/wp-content/uploads/2013/06/banner-copyright-1024x576.jpg
+---
 ### Articulo 151 Ley federal del derecho de autor:
 > No constituyen violaciones a los derechos de los artistas intérpretes o ejecutantes, productores de fonogramas, de videogramas u organismos de radiodifusión la utilización de sus actuaciones, fonogramas, videogramas o emisiones, cuando:  
 >  * **No se persiga un beneficio económico directo;**
@@ -52,5 +53,16 @@ Arrestan en mexico Creadores de sitio de torrents Demonoid
 ---
 # ¿ Qué es "Warez" ?
 ![warez](https://i.imgur.com/beNCRki.png)
+---?image=http://imagizer.imageshack.us/v2/626x480q90/922/mifIBO.png
+# Sitios de Peliculas
+* Descarga directa
+> File hosting
 
+| ![mega](https://i.ytimg.com/vi/-eAYUbUwNlo/maxresdefault.jpg) | |
+|--|--|
+
+---?image=http://imagizer.imageshack.us/v2/626x480q90/922/mifIBO.png
+# Sitios de Peliculas
+* Streaming online
+> Video hosting
 
