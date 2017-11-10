@@ -22,7 +22,6 @@ tw: @zodman
 * Tipos de sitio web
 * Requerimientos para el sitio
 * Tráfico y como lo obtienen
-* Monetización y alcances
 * Ejemplo
 
 ---
@@ -172,6 +171,10 @@ Diferentes costos por país
 
 ---
 
-<iframe src="http://recordit.co/GWt1w8CchS"  width="100%" height="100%"></iframe>
+
+http://recordit.co/GWt1w8CchS
+
+---
+
 
 
