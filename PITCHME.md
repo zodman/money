@@ -148,3 +148,13 @@ Explicación del funcionamiento del torrent
 ## Sitio web: Wordpress
 ## Método Monetización: ?
 
+---
+
+### CPC (click)
+### CPM ( Mil )
+### CPA ( acción )
+
+---
+
+# CPM ( Mil )
+
