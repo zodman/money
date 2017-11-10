@@ -139,4 +139,4 @@ Explicación del funcionamiento del torrent
 
 ### themes movies
 
-![](https://i.imgur.com/Gag3Fq3.jpg)
+![](https://i.imgur.com/gtLmSeZ.jpg)
