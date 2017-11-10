@@ -55,14 +55,19 @@ Arrestan en mexico Creadores de sitio de torrents Demonoid
 ![warez](https://i.imgur.com/beNCRki.png)
 ---
 # Origenes
-![](https://i.imgflip.com/1z4c50.jpg)
+![](https://i.imgflip.com/1z4c50.jpg)  
 Note:
 Software Distribuido, Centralizado.
+Estrenos:   
+* Las pelis vienen del cine
+* Vienen de DVD BlueRayDisc
+* Sitios de streaming que si pagan por la distribuiocion
+> amazon, netflix, blim, click cinepolis
+
 ---
-### XDCC
-![](http://nouyoju.free.fr/TutoIRC/xdcc.jpg)
-Note:
-xdcc Centralizado
+### Tipos de archivos
+![img](https://i.imgur.com/5JGsQst.png)
+https://es.wikipedia.org/wiki/Formatos_de_distribuci%C3%B3n_de_pel%C3%ADculas_por_pirater%C3%ADa#Telecine_.28TC.29
 ---
 ### Torrent
 ![](http://s2.quickmeme.com/img/65/654e043f9e37486b05b2ff822127d7bb498b9e3d1bf92563c16c8360abf6b766.jpg)
