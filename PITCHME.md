@@ -240,6 +240,7 @@ Youtube Romulad Fonse, Auditoria SEO
 ---?image=https://i.imgur.com/SqgEzjR.png&size=auto 100%
 
 ---?image=https://i.imgur.com/fZs5RgA.png&size=100% auto
+
 ---
 
-![](https://i.imgur.com/MEwkkr3.png&size=100% auto)
+![](https://i.imgur.com/wkHBxUL.png&size=100% auto)
