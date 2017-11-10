@@ -9,7 +9,9 @@ Lic. en ciencias computaciones
 UADY.
 
 Líder OpenSource en interalia.net  
-Python Ninja & anime lover and warez ripper.
+Python Ninja & anime lover and warez ripper.  
+CANIETI VicePresidente Seguridad & Internet.  
+Auditor de acortadores - http://AuditMy.link  
 
 tw: @zodman 
 
@@ -244,3 +246,6 @@ Youtube Romulad Fonse, Auditoria SEO
 ---
 
 ![](https://i.imgur.com/wkHBxUL.png&size=100% auto)
+
+---?image=https://i.imgur.com/EO23QqJ.png
+
