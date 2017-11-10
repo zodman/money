@@ -36,7 +36,7 @@ Preguntar al publico si es legal o no
 ---
 
 > Aquí y en China un delito es un delito!
->                              Mi Mujer
+>                              - Mi Mujer
 
 
 ---
@@ -45,20 +45,32 @@ Preguntar al publico si es legal o no
 <span style="font-size:.9em;">No constituyen violaciones a los derechos de los artistas intérpretes o ejecutantes, productores de fonogramas, de videogramas u organismos de radiodifusión la utilización de sus actuaciones, fonogramas, videogramas o emisiones, cuando:  </span>
 ### **No se persiga un beneficio económico directo;**
 ---
- ![img1](https://imgur.com/I8H810c.png)
----
-![img2](https://imgur.com/ce9pExZ.png)
----
-![img2](https://imgur.com/EC8myrx.png)
----
-![img3](https://imgur.com/BwubIUg.png)
----
+
 ![](http://caliescribe.com/sites/default/files/imagenes_revista/2012/02/01-04/tecnologia/dvd-pirata.jpg)
+
 ---
+
+ ![img1](https://imgur.com/I8H810c.png)
+
+---
+
+![img2](https://imgur.com/ce9pExZ.png)
+
+---
+
+![img2](https://imgur.com/EC8myrx.png)
+
+---
+
+![img3](https://imgur.com/BwubIUg.png)
+
+---
+
 [buscar en google cierran sitio de películas mexico](http://www.lmfgtfy.com/?q=cierran+sitio+peliculas+mexico)  
 [buscar en google cierran sitio piratas mexico](https://www.google.com.mx/search?btnG=1&pws=0&q=cierran+sitio+web+piratas+mexico&gws_rd=cr&dcr=0&ei=Ea8CWtizEqOMjwTeh7qQAQ)  
 
 ---
+
 | ![kickass.com.mx](https://i.imgur.com/V96lRvf.png) | ![torrentfreak](https://i.imgur.com/F5Dq3mI.png) |
 |----------------------------------------------------|--------------------------------------------------|
 
@@ -70,9 +82,9 @@ Arrestan en méxico Creadores de sitio de torrents Demonoid
 # ¿ Qué es "Warez" ?
 ![warez](https://i.imgur.com/beNCRki.png)
 ---
-# Orígenes
 ![](https://i.imgflip.com/1z4c50.jpg)  
 Note:
+# Orígenes
 Estrenos:   
 * Las pelis vienen del cine
 * Vienen de DVD BlueRayDisc
