@@ -53,7 +53,7 @@ Arrestan en mexico Creadores de sitio de torrents Demonoid
 ---
 # ¿ Qué es "Warez" ?
 ![warez](https://i.imgur.com/beNCRki.png)
----?image=http://imagizer.imageshack.us/v2/626x480q90/922/mifIBO.png
+---
 # Sitios de Peliculas
 * Descarga directa
 > File hosting
@@ -61,7 +61,7 @@ Arrestan en mexico Creadores de sitio de torrents Demonoid
 | ![mega](https://i.ytimg.com/vi/-eAYUbUwNlo/maxresdefault.jpg) | |
 |--|--|
 
----?image=http://imagizer.imageshack.us/v2/626x480q90/922/mifIBO.png
+---
 # Sitios de Peliculas
 * Streaming online
 > Video hosting
