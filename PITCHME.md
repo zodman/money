@@ -57,10 +57,8 @@ Arrestan en mexico Creadores de sitio de torrents Demonoid
 # Sitios de Peliculas
 * Descarga directa
 > File hosting
-
-| ![mega](https://i.ytimg.com/vi/-eAYUbUwNlo/maxresdefault.jpg) | |
-|--|--|
-
+---
+![image](http://imagizer.imageshack.us/v2/626x480q90/922/mifIBO.png)
 ---
 # Sitios de Peliculas
 * Streaming online
