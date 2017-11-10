@@ -252,7 +252,9 @@ Youtube Romulad Fonse, Auditoria SEO
 
 twitter.com/zodman
 
-PDF de warez ?
+PDF de warez ? POR DM
 
 http://auditmy.link
+
+https://gitpitch.com/zodman/money
 
