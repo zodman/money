@@ -48,6 +48,7 @@ Arrestan en mexico Creadores de sitio de torrents Demonoid
 ---
 ![img3](https://imgur.com/BwubIUg.png)
 ---
-
+# ¿ Qué es "Warez" ?
+![warez](https://i.imgur.com/beNCRki.png)
 
 
