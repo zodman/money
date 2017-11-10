@@ -29,7 +29,7 @@ Python Ninja & anime lover and warez ripper.
 ### Articulo 151 Ley federal del derecho de autor:
 
 <span style="font-size:.9em;">No constituyen violaciones a los derechos de los artistas intérpretes o ejecutantes, productores de fonogramas, de videogramas u organismos de radiodifusión la utilización de sus actuaciones, fonogramas, videogramas o emisiones, cuando:  </span>
->  * **No se persiga un beneficio económico directo;**
+### **No se persiga un beneficio económico directo;**
 ---
 
 [buscar en google cierran sitio de peliculas mexico](http://www.lmfgtfy.com/?q=cierran+sitio+peliculas+mexico)  
