@@ -140,3 +140,11 @@ Explicación del funcionamiento del torrent
 ### themes movies
 
 ![](https://i.imgur.com/gtLmSeZ.jpg)
+
+----
+
+# Requerimientos básicos
+## Origen: Tracker 
+## Sitio web: Wordpress
+## Método Monetización: ?
+
