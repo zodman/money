@@ -2,16 +2,15 @@
 ## Con un sitio de peliculas
 by @zodman
 ---
-# Me presento
  
 Soy Andrés Bernardo Vargas Rodríguez.  
 Lic. en ciencias computaciones  
 UADY.
 
+## Auditor de acortadores - http://AuditMy.link  
 Líder OpenSource en interalia.net  
-Python Ninja & anime lover and warez ripper.  
 CANIETI VicePresidente Seguridad & Internet.  
-Auditor de acortadores - http://AuditMy.link  
+Python Ninja & anime lover and warez ripper.  
 
 tw: @zodman 
 
