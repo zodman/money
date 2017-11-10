@@ -141,7 +141,7 @@ Explicación del funcionamiento del torrent
 
 ![](https://i.imgur.com/gtLmSeZ.jpg)
 
-----
+---
 
 ### Requerimientos básicos
 #### Origen: Tracker 
@@ -151,26 +151,24 @@ Explicación del funcionamiento del torrent
 ---
 
 # CPC (click)
-# CPM ( Mil )
-# CPA ( acción )
+# CPM ( Mille )
+# CPA ( action )
 
 
 ---
 
-# CPM ( Mil )
+# CPM ( Mil impresiones )
 
 ### Acortadores de urls
 ### Popups
 
 
 
-### Diferentes costos por país
 
 Note:
-tenemos un CPM de 1USD
-Sitio web se muestra a 10000 Personas ganas $10 USD
+tenemos un CPM de 1USD  
+Sitio web se muestra a 10000 Personas ganas $10 USD  
+Diferentes costos por país  
 
-
----
-
+---?image=http://g.recordit.co/GWt1w8CchS.gif&size=auto 100%
 
