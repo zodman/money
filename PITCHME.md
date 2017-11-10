@@ -57,11 +57,6 @@ Preguntar al publico si es legal o no
 
 ---
 
-[buscar en google cierran sitio de películas mexico](http://www.lmfgtfy.com/?q=cierran+sitio+peliculas+mexico)  
-[buscar en google cierran sitio piratas mexico](https://www.google.com.mx/search?btnG=1&pws=0&q=cierran+sitio+web+piratas+mexico&gws_rd=cr&dcr=0&ei=Ea8CWtizEqOMjwTeh7qQAQ)  
-
----
-
 | ![kickass.com.mx](https://i.imgur.com/V96lRvf.png) | ![torrentfreak](https://i.imgur.com/F5Dq3mI.png) |
 |----------------------------------------------------|--------------------------------------------------|
 
@@ -74,10 +69,7 @@ Arrestan en méxico Creadores de sitio de torrents Demonoid
 # ¿ Qué es "Warez" ?
 ![warez](https://i.imgur.com/beNCRki.png)
 
----
-
-
-![](https://i.imgur.com/0gL01PW.jpg)
+---?image=https://i.imgur.com/0gL01PW.jpg&size=auto 100%
 
 
 Note:
