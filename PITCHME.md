@@ -21,10 +21,10 @@ Python Ninja & anime lover and warez ripper.
 * Monetización y alcances
 * Ejemplo
 
----
+---?image=http://www.thailandlaw.org/wp-content/uploads/2013/06/banner-copyright-1024x576.jpg
 # Un sitio de peliculas en México 
 ## ¿ Es legal o no ?
----
+---?image=http://www.thailandlaw.org/wp-content/uploads/2013/06/banner-copyright-1024x576.jpg
 ### Articulo 151 Ley federal del derecho de autor:
 > No constituyen violaciones a los derechos de los artistas intérpretes o ejecutantes, productores de fonogramas, de videogramas u organismos de radiodifusión la utilización de sus actuaciones, fonogramas, videogramas o emisiones, cuando:  
 >  * **No se persiga un beneficio económico directo;**
