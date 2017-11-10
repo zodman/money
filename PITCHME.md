@@ -215,7 +215,8 @@ Usa buffer.com para agendar tus post semanales en facebook o twitter utilizando 
 ---?image=https://i.imgur.com/EBmgb3y.png&size=auto 100%
 ---?image=https://i.imgur.com/ksk8y9u.png&size=auto 100%
 
----?video=https://www.youtube.com/watch?v=pMyGATaLYUU
+---
+![](https://www.youtube.com/embed/pMyGATaLYUU)
 
 
 
