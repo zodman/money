@@ -196,7 +196,7 @@ http://recordit.co/GWt1w8CchS
 
 ---
 
-<span style="font-size:.9em">
+<span style="font-size:.7em">
 Lo primero que tienes que hacer es crear cuentas de twitter y fanpage facebook.com después
 Tienes que ponerle ifttt.com para disparar tus ligas de tus posts. Cada vez que se agregue algo al wordpress ifttt.com se encarga de postearlo.
 Tu fanpage facebook hasla viral. Poniendo memes de películas. Eso compártelo en todos los grupos que puedas de facebook. Eso hara que atraigas trafico de redes sociales a tu sitio web.
