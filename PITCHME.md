@@ -130,9 +130,9 @@ Explicación del funcionamiento del torrent
 
 ---
 
-# Requerimientos básicos
-## Origen: Tracker 
-## Sitio web: wordpress
+### Requerimientos básicos
+#### Origen: Tracker 
+#### Sitio web: wordpress
 
 
 ---
@@ -143,10 +143,10 @@ Explicación del funcionamiento del torrent
 
 ----
 
-# Requerimientos básicos
-## Origen: Tracker 
-## Sitio web: Wordpress
-## Método Monetización: ?
+### Requerimientos básicos
+#### Origen: Tracker 
+#### Sitio web: Wordpress
+#### Método Monetización: ?
 
 ---
 
