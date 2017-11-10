@@ -195,18 +195,19 @@ http://recordit.co/GWt1w8CchS
 # GrowthHacking!!!
 
 ---
-
-Lo primero que tienes que hacer es crear cuentas de twitter y fanpage facebook.com despues
+<span style="font-size:.5em">
+Lo primero que tienes que hacer es crear cuentas de twitter y fanpage facebook.com después
 Tienes que ponerle ifttt.com para disparar tus ligas de tus posts. Cada vez que se agregue algo al wordpress ifttt.com se encarga de postearlo.
-Tu fanpage facebook hasla viral. Poniendo memes de peliculas. Eso compartelo en todos los grupos que puedas de facebook. Eso hara que atraigas trafico de redes sociales a tu sitio web.
-En twitter has lo mismo pon memes de peliculas. Dale follow a todo Mundo retwitt a todo lo relacionado con peliculas para que tu perfil se de a notar.  
-Instala twando y pone en pilotoautomatico los DM's de twitter mandando trafico a tu sitioweb.
+Tu fanpage facebook hasla viral. Poniendo memes de películas. Eso compártelo en todos los grupos que puedas de facebook. Eso hara que atraigas trafico de redes sociales a tu sitio web.
+En twitter has lo mismo pon memes de películas. Dale follow a todo Mundo retwitt a todo lo relacionado con peliculas para que tu perfil se de a notar.  
+Instala twando y pone en piloto automático los DM's de twitter mandando trafico a tu sitio web.
 Usa buffer.com para agendar tus post semanales en defacebook o twitter utilizando twando.
-
+</span>
 
 ---
 
 # Twando
+
 ![](https://i.imgur.com/CbMbCHd.png)
 
 ---?image=https://i.imgur.com/IXbqs24.png&size=auto 100%
