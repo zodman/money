@@ -55,13 +55,22 @@ Arrestan en mexico Creadores de sitio de torrents Demonoid
 ![warez](https://i.imgur.com/beNCRki.png)
 ---
 # Origenes
+![](https://i.imgflip.com/1z4c50.jpg)
+Note:
+Software Distribuido, Centralizado.
 ---
-# XDCC
-![](http://theloadguru.com/wp-content/uploads/2014/12/IRCDownloading1.png)
+### XDCC
+![](http://nouyoju.free.fr/TutoIRC/xdcc.jpg)
+Note:
+xdcc Centralizado
 ---
-# Torrent
+### Torrent
+![](http://s2.quickmeme.com/img/65/654e043f9e37486b05b2ff822127d7bb498b9e3d1bf92563c16c8360abf6b766.jpg)
+
+Note:
+Descentralizado
 ---
-# UseNet
+### UseNet
 ---
 # Descarga directa
 ## File hosting
