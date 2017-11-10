@@ -83,10 +83,7 @@ Estrenos:
 Software Distribuido, Centralizado.
 
 
----
-### Tipos de archivos
-![img](https://i.imgur.com/eQweLKw.png)
-
+---?image=https://i.imgur.com/5JGsQst.png&size=auto 100%
 Note:
 TS Screener  
 DVD-R formato para grabar un cd
@@ -116,10 +113,19 @@ DVD-R formato para grabar un cd
 Note:
 Fuente de todoooo  
 Descentralizado
+Explicación del funcionamiento del torrent
 
----?image=https://i.imgur.com/5JGsQst.png&size=auto 100%
-https://es.wikipedia.org/wiki/Formatos_de_distribuci%C3%B3n_de_pel%C3%ADculas_por_pirater%C3%ADa#Telecine_.28TC.29
+---
 
+### Trackers Públicos
+
+![](https://i.imgur.com/G2akzB9.png)
+
+### Trackers Privados
+
+---
+
+![](http://i.imgur.com/NaagU4o.png)
 
 
 
