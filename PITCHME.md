@@ -20,7 +20,7 @@ tw: @zodman
 
 * Legal
 * Tipos de sitio web
-vídeo Requerimientos para el sitio
+* Requerimientos para el sitio
 * Tráfico y como lo obtienen
 * Monetización y alcances
 * Ejemplo
@@ -109,6 +109,12 @@ TS Screener
 DVD-R formato para grabar un cd
 
 ---
+
+# Hay 2 tipos de páginas web
+
+
+---
+
 # Descarga directa
 ## File hosting
 ### Descarga archivos a tu computadora
