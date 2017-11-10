@@ -121,11 +121,23 @@ Explicación del funcionamiento del torrent
 
 ![](https://i.imgur.com/G2akzB9.png)
 
-### Trackers Privados
 
 ---
 
+### Trackers Privados
 ![](http://i.imgur.com/NaagU4o.png)
 
 
+---
 
+# Requerimientos básicos
+## Origen: Tracker 
+## Sitio web: wordpress
+
+
+---
+
+### themes movies
+
+| ![](https://i.imgur.com/Gag3Fq3.jpg) | ![](https://i.imgur.com/Gag3Fq3.jpg) |
+|--|--|
