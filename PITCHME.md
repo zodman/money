@@ -212,10 +212,10 @@ Usa buffer.com para agendar tus post semanales en facebook o twitter utilizando 
 ![](https://i.imgur.com/CbMbCHd.png)
 
 ---?image=https://i.imgur.com/IXbqs24.png&size=auto 100%
----?image=https://i.imgur.com/IXbqs24.png&size=auto 100%
+---?image=https://i.imgur.com/EBmgb3y.png&size=auto 100%
 ---?image=https://i.imgur.com/ksk8y9u.png&size=auto 100%
 
---?video=https://www.youtube.com/watch?v=pMyGATaLYUU
+---?video=https://www.youtube.com/watch?v=pMyGATaLYUU
 
 
 
