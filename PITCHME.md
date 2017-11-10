@@ -35,7 +35,8 @@ Preguntar al publico si es legal o no
 
 ---
 
-Aquí y en China un delito es un delito!
+> Aquí y en China un delito es un delito!
+>                              - Mi Mujer
 
 
 ---
