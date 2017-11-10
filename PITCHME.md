@@ -59,38 +59,48 @@ Arrestan en mexico Creadores de sitio de torrents Demonoid
 # Origenes
 ![](https://i.imgflip.com/1z4c50.jpg)  
 Note:
-Software Distribuido, Centralizado.
 Estrenos:   
 * Las pelis vienen del cine
 * Vienen de DVD BlueRayDisc
-* Sitios de streaming que si pagan por la distribuiocion
-> amazon, netflix, blim, click cinepolis
+* Sitios de streaming que si pagan por la distribuición
+> amazon, netflix, blim, click cinepolis  
+
+Software Distribuido, Centralizado.
+
 
 ---
 ### Tipos de archivos
 ![img](https://i.imgur.com/eQweLKw.png)
-https://es.wikipedia.org/wiki/Formatos_de_distribuci%C3%B3n_de_pel%C3%ADculas_por_pirater%C3%ADa#Telecine_.28TC.29
 
+Note:
+TS Screener  
+DVD-R formato para grabar un cd
 
 ---
+# Descarga directa
+## File hosting
+### Descarga archivos a tu computadora
+
+---
+
+![image](http://imagizer.imageshack.us/v2/626x480q90/922/mifIBO.png)
+
+---
+
+# Streaming online
+## Video hosting
+### Ver el video/pelicula sin descargar a tu computadora
+
+---
+
 ### Torrent
 ![](http://s2.quickmeme.com/img/65/654e043f9e37486b05b2ff822127d7bb498b9e3d1bf92563c16c8360abf6b766.jpg)
 
 Note:
 Descentralizado
+
 ---
-### UseNet
----
-# Descarga directa
-## File hosting
-### Descarga archivos a tu computadora
----
-![image](http://imagizer.imageshack.us/v2/626x480q90/922/mifIBO.png)
----
-# Streaming online
-## Video hosting
-### Ver el video/pelicula sin descargar a tu computadora
----
+
 ### Tipos de archivos
 ![img](https://i.imgur.com/5JGsQst.png)
 https://es.wikipedia.org/wiki/Formatos_de_distribuci%C3%B3n_de_pel%C3%ADculas_por_pirater%C3%ADa#Telecine_.28TC.29
