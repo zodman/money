@@ -231,4 +231,12 @@ https://github.com/EstebanFuentealba/facebook-live-streaming
 La mayor fuente de tráfico:  
 # SEO
 
+---
 
+Youtube Romulad Fonse, Auditoria SEO
+
+---?image=https://i.imgur.com/Oei0xMW.png&size=auto 100%
+
+---?image=https://i.imgur.com/SqgEzjR.png&size=auto 100%
+
+---?image=https://i.imgur.com/fZs5RgA.png&size=auto 100%
