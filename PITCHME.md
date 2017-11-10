@@ -247,3 +247,12 @@ Youtube Romulad Fonse, Auditoria SEO
 
 ---?image=https://i.imgur.com/EO23QqJ.png&size=auto 100%
 
+---
+
+
+twitter.com/zodman
+
+PDF de warez ?
+
+http://auditmy.link
+
