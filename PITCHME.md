@@ -54,13 +54,29 @@ Arrestan en mexico Creadores de sitio de torrents Demonoid
 # ¿ Qué es "Warez" ?
 ![warez](https://i.imgur.com/beNCRki.png)
 ---
-# Sitios de Peliculas
-* Descarga directa
-> File hosting
+# Origenes
+---
+# XDCC
+![](http://theloadguru.com/wp-content/uploads/2014/12/IRCDownloading1.png)
+---
+# Torrent
+---
+# UseNet
+---
+# Descarga directa
+## File hosting
+### Descarga archivos a tu computadora
 ---
 ![image](http://imagizer.imageshack.us/v2/626x480q90/922/mifIBO.png)
 ---
-# Sitios de Peliculas
-* Streaming online
-> Video hosting
+# Streaming online
+## Video hosting
+### Ver el video/pelicula sin descargar a tu computadora
+---
+### Tipos de archivos
+![img](https://i.imgur.com/5JGsQst.png)
+https://es.wikipedia.org/wiki/Formatos_de_distribuci%C3%B3n_de_pel%C3%ADculas_por_pirater%C3%ADa#Telecine_.28TC.29
+
+
+
 
