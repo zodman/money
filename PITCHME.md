@@ -128,13 +128,14 @@ DVD-R formato para grabar un cd
 # Streaming online
 ## Video hosting
 ### Ver el vídeo/película sin descargar a tu computadora
+#### Por general audio en español de España o latino.
 
 ---
 
-### Torrent
 ![](http://s2.quickmeme.com/img/65/654e043f9e37486b05b2ff822127d7bb498b9e3d1bf92563c16c8360abf6b766.jpg)
 
 Note:
+Fuente de todoooo
 Descentralizado
 
 ---
