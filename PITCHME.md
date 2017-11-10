@@ -85,8 +85,9 @@ Arrestan en méxico Creadores de sitio de torrents Demonoid
 
 ---
 
-| ![](https://i.imgflip.com/1z4c50.jpg) | ![](https://i.imgur.com/0gL01PW.jpg) |
-|--|--|
+
+![](https://i.imgur.com/0gL01PW.jpg)
+
 
 Note:
 # Orígenes
