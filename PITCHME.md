@@ -6,8 +6,7 @@ by @zodman
 Soy Andrés Bernardo Vargas Rodríguez.  
 Lic. en ciencias computaciones  
 UADY.
-
-## Auditor de acortadores - http://AuditMy.link  
+ Auditor de acortadores - http://AuditMy.link  
 Líder OpenSource en interalia.net  
 CANIETI VicePresidente Seguridad & Internet.  
 Python Ninja & anime lover and warez ripper.  
