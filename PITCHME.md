@@ -114,13 +114,10 @@ DVD-R formato para grabar un cd
 ---?image=http://s2.quickmeme.com/img/65/654e043f9e37486b05b2ff822127d7bb498b9e3d1bf92563c16c8360abf6b766.jpg&size=auto 100%
 
 Note:
-Fuente de todoooo
+Fuente de todoooo  
 Descentralizado
 
----
-
-### Tipos de archivos
-![img](https://i.imgur.com/5JGsQst.png)
+---?image=https://i.imgur.com/5JGsQst.png&size=auto 100%
 https://es.wikipedia.org/wiki/Formatos_de_distribuci%C3%B3n_de_pel%C3%ADculas_por_pirater%C3%ADa#Telecine_.28TC.29
 
 
